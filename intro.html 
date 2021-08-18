@@ -14,7 +14,7 @@
     <button><a href="bio.html"  role="button">More info</a></button>
       <h1> Martin luther king </h1>
 
-
+         <img class="col-md-4" src="https://www.bing.com/images/search?q=picture+of+martin+luther+jr&id=80FECFF59D5C320B7902A0948135FBAA4AD9AFE4&FORM=IQFRBA">
 
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
@@ -42,11 +42,18 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+
+       <p class ="col-md-8">
+       He was a great man you did amazing things inn his time and he was famous for his" I have a dream speech".
+       Martin Luher king jr helped a lot of people from his speech. 
+       He had to deal with people treating him badly because of his race.
+
        <p> Martin luther king is the most visisble leader in America </i></p>
        <p> Martin luther king was born on January 15, 1929 in Alanta GA.</p>
        <P> Martin luther king was assasinated on April 4 1968 in Memphis TN.</p>
        <table>
         
+
         <h3>Life Events</h3>
         <tr>
             <td><b>Event</b></td>
@@ -59,8 +66,8 @@
          <td> Jan 15,1929</td>
          <td> Martin luther king jr was born in Alanta GA</td>
          <td>The End </td>
-         <td>April 4,1968 </td>
-         <td> Got assasinated</td>
+         <td> was born April 4,1968 </td>
+         <td> Died because he  Got assasinated </td>
           </tr>
     </table>
 </body>
